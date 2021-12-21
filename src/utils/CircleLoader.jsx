@@ -5,7 +5,9 @@ const containerStyle = {
   position: "relative",
   width: "3rem",
   height: "3rem",
-  boxSizing: "border-box"
+  boxSizing: "border-box",
+  margin: "auto"
+  
 };
 
 const circleStyle = {
